@@ -29,7 +29,7 @@ Berikut adalah bukti hasil kerja/engagement penjualan saya:
 ### 1. Editing Skill
 **"Penggunaan aplikasi seperti CapCut, Canva, dan PhotoRoom menjadi skill untuk membuat video maupun foto produk yang bersih dan menarik."**
 
-![Hasil Editing Foto/Video](gambar-editing1.jpg)
+![Hasil Editing Foto/Video](s5.jpg)
 
 ### 2. Content Writing
 **"Kemampuan memakai berbagai jenis AI untuk membuat konten, artikel SEO, review, dan cerita yang menarik audiens."**
@@ -39,8 +39,8 @@ Berikut adalah bukti hasil kerja/engagement penjualan saya:
 Berikut contoh konten/artikel yang telah saya buat:
 <table>
   <tr>
-    <td><img src="gambar-ai1.jpg" width="250"></td>
-    <td><img src="gambar-ai2.jpg" width="250"></td>
+    <td><img src="s6.jpg" width="250"></td>
+    <td><img src="s7.jpg" width="250"></td>
   </tr>
 </table>
 
