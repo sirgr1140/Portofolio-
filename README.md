@@ -10,12 +10,12 @@ Selamat datang di portofolio saya! Saya adalah seorang spesialis **Sales Online*
 Berikut adalah bukti hasil kerja/engagement penjualan saya:
 <table>
   <tr>
-    <td><img src="s1.jpg" width="200"></td>
-    <td><img src="s2.jpg" width="200"></td>
+    <td><img src="s1.jpeg" width="200"></td>
+    <td><img src="s2.jpeg" width="200"></td>
   </tr>
   <tr>
-    <td><img src="s3.jpg" width="200"></td>
-    <td><img src="s4.jpg" width="200"></td>
+    <td><img src="s3.jpeg" width="200"></td>
+    <td><img src="s4.jpeg" width="200"></td>
   </tr>
 </table>
 
@@ -29,7 +29,7 @@ Berikut adalah bukti hasil kerja/engagement penjualan saya:
 ### 1. Editing Skill
 **"Penggunaan aplikasi seperti CapCut, Canva, dan PhotoRoom menjadi skill untuk membuat video maupun foto produk yang bersih dan menarik."**
 
-![Hasil Editing Foto/Video](s5.jpg)
+![Hasil Editing Foto/Video](s5.jpeg)
 
 ### 2. Content Writing
 **"Kemampuan memakai berbagai jenis AI untuk membuat konten, artikel SEO, review, dan cerita yang menarik audiens."**
@@ -39,8 +39,8 @@ Berikut adalah bukti hasil kerja/engagement penjualan saya:
 Berikut contoh konten/artikel yang telah saya buat:
 <table>
   <tr>
-    <td><img src="s6.jpg" width="250"></td>
-    <td><img src="s7.jpg" width="250"></td>
+    <td><img src="s6.jpeg" width="250"></td>
+    <td><img src="s7.jpeg" width="250"></td>
   </tr>
 </table>
 
