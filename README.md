@@ -44,9 +44,3 @@ Berikut contoh konten/artikel yang telah saya buat:
   </tr>
 </table>
 
----
-
-## 📨 Kontak
-Jika Anda tertarik untuk berkolaborasi atau merekrut saya, silakan hubungi melalui:
-* **Email:** [Email Kamu]
-* **LinkedIn:** [Link LinkedIn Kamu]
