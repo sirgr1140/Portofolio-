@@ -19,7 +19,7 @@ Berikut adalah bukti hasil kerja/engagement penjualan saya:
   </tr>
 </table>
 
-*   **TikTok:** [Link TikTok](* **TikTok:** [pefz.juga](https://www.tiktok.com)
+*   **TikTok:** [Link TikTok][pefz.juga](https://www.tiktok.com)
 *   **Instagram:** [Link IG](https://www.instagram.com/horzzzzy?igsh=MzI2bmh1bW9seWVv)
 
 ---
@@ -35,7 +35,7 @@ Berikut adalah bukti hasil kerja/engagement penjualan saya:
 ### 2. Content Writing
 **"Kemampuan memakai berbagai jenis AI untuk membuat konten, artikel SEO, review, dan cerita yang menarik audiens."**
 
-*   **Blog:** [Link Blogger](* **Blogger:** [Algorithium Blog](https://algorithium.blogspot.com)
+*   **Blog:** [Link Blogger][Algorithium Blog](https://algorithium.blogspot.com)
 
 Berikut contoh konten/artikel yang telah saya buat:
 <table>
