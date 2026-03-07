@@ -31,11 +31,10 @@ Berikut adalah bukti hasil kerja/engagement penjualan saya:
 
 <table>
   <tr>
-<img src="s5.jpeg" width="250" alt="Hasil Editing Foto/Video">
-<img src="Burger.png" width="250" alt="Hasil Editing Foto/Video">
+     <td><img src="s5.jpeg" width="250"></td>
+     <td><img src="Burger.png" width="250">
   </tr>
 </table>
-
 ### 2. Content Writing
 **"Kemampuan memakai berbagai jenis AI untuk membuat konten, artikel SEO, review, dan cerita yang menarik audiens."**
 
