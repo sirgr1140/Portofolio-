@@ -32,10 +32,14 @@ Berikut adalah bukti hasil kerja/engagement penjualan saya:
 <table>
   <tr>
      <td><img src="s5.jpeg" width="250"></td>
-     <td><img src="Burger.png" width="250">/td>
+     <td><img src="Burger.png" width="250"></td>
   </tr>
 </table>
+
+---
+
 ### 2. Content Writing
+
 **"Kemampuan memakai berbagai jenis AI untuk membuat konten, artikel SEO, review, dan cerita yang menarik audiens."**
 
 *   **Blog:** [Algorithium Blog](https://algorithium.blogspot.com)
