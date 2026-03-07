@@ -32,7 +32,7 @@ Berikut adalah bukti hasil kerja/engagement penjualan saya:
 <table>
   <tr>
      <td><img src="s5.jpeg" width="250"></td>
-     <td><img src="Burger.png" width="250">
+     <td><img src="Burger.png" width="250">/td>
   </tr>
 </table>
 ### 2. Content Writing
