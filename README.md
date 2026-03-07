@@ -30,6 +30,7 @@ Berikut adalah bukti hasil kerja/engagement penjualan saya:
 **"Penggunaan aplikasi seperti CapCut, Canva, dan PhotoRoom menjadi skill untuk membuat video maupun foto produk yang bersih dan menarik."**
 
 <img src="s5.jpeg" width="250" alt="Hasil Editing Foto/Video">
+<img src="Burger.PNG" width="250" alt="Hasil Editing Foto/Video">
 
 
 ### 2. Content Writing
